@@ -1,2 +1,2 @@
-# mr
+# hadoop
 Simple examples of mapreduce.
